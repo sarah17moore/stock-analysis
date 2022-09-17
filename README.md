@@ -2,7 +2,9 @@
 A classwork example project reviewing stock portfolios.
 
 ---
-#Outline of assignment: 
+# Outline of assignment: 
+The following prompts will be followed
+
 # Overview
 purpose and background of the analysis
 
