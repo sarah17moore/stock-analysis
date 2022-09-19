@@ -23,6 +23,7 @@ The original code to complete this analysis did not fully utilize variable assig
 The new and improved code utilized variables which helped the process repeat actions quicker. This is due to the macro not needing to read full equations or prompts repeatedly, instead, the equation can be read once and "stored" in the memory of the variable. This is a screenshot of the new and improved code that shows that variables have been utilized to accomplish the same actions as the old code:
 
 By eliminating several steps in the macro code, the run time was shortened from 0.273 seconds to 0.028 seconds. 
+![2018 - old, slower code run time](/Resources/VBA_Challenge_2018.png)
 
 In short, DAQO was not as actively traded as Steve's clients may have hoped. The return has shown to be negative. Alternatively, stocks ENPH and RUN have positive returns. Steve's clients may be interested in investing into these stocks instead. 
 
