@@ -16,8 +16,6 @@ After an initial code was created, the code was refactored to speed up the macro
 ---
 
 # Results
-using images and examples of code, compare the stock performance between 2018 and 2018 as well as the execution times of the original script and the refactored script
-
 The original code to complete this analysis did not fully utilize variable assignment. This is a screenshot of the original code showing that full equations were typed out in several steps:
 ![2018 - old, slower code example](/Resources/2018_old_code_screenshot.png)
 
@@ -36,8 +34,8 @@ in a summary statement address:
  What are advantages or disadvantages of refactoring code
  how do these pros and cons apply to refactoring the original vba script
  
- ---
+Refactoring code can be beneficial as this action can help keep process run times low, make Excel data sheets more efficient, and can help code be more readable by casual users or others who will need to edit the code in the future. On the other hand, if a original code works well and still completes the process in a reasonable amount of time, it may take extra time and effort to refactor the code. It may not be worth it to spend this time to refactor code that already works. 
 
-there is a title, multiple paragraphs each with headings, subheadings to break up text, links are working and images are formatted/ displayed where appropriate
+These ideas can be applied to this refactoring process. While this refactored code is definitely easier to read and understand, which will help Steve if he needs to make adjustments or additions in the future, it did take a significant amount of turnaround time to finish the refactoring. Steve may have needed to decide if waiting for refactoring for ease of use in the future is worth it to him and his clients in the present time.  
  
- 
+ ---
