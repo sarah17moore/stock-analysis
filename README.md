@@ -25,6 +25,8 @@ The new and improved code utilized variables which helped the process repeat act
 By eliminating several steps in the macro code, the run time was shortened from 0.273 seconds to 0.028 seconds. 
 ![2018 - old, slower code run time](/Resources/VBA_Challenge_2018.png)
 
+![2018 - new, quicker code run time](/Resources/VBA_Challenge_2018-2.png)
+
 In short, DAQO was not as actively traded as Steve's clients may have hoped. The return has shown to be negative. Alternatively, stocks ENPH and RUN have positive returns. Steve's clients may be interested in investing into these stocks instead. 
 
 # Summary
