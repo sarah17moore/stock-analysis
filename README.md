@@ -26,7 +26,7 @@ The new and improved code utilized variables which helped the process repeat act
 
 By eliminating several steps in the macro code, the run time was shortened from 0.273 seconds to 0.028 seconds. 
 
-![2018 - old, slower code run time](commit/65670590ec8a70e74ac3a771bef0e925a6da6480)
+![2018 - old, slower code run time](/Resources/VBA_Challenge_2018-(original).png)
 
 ![2018 - new, quicker code run time](/Resources/VBA_Challenge_2018.png)
 
