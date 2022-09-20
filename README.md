@@ -26,17 +26,13 @@ The new and improved code utilized variables which helped the process repeat act
 
 By eliminating several steps in the macro code, the run time was shortened from 0.273 seconds to 0.028 seconds. 
 
-![2018 - old, slower code run time](/Resources/VBA_Challenge_2018.png)
+![2018 - old, slower code run time](commit/65670590ec8a70e74ac3a771bef0e925a6da6480)
 
 ![2018 - new, quicker code run time](/Resources/VBA_Challenge_2018.png)
 
 In short, DAQO was not as actively traded as Steve's clients may have hoped. The return has shown to be negative. Alternatively, stocks ENPH and RUN have positive returns. Steve's clients may be interested in investing into these stocks instead. 
 
 # Summary
-in a summary statement address:
- What are advantages or disadvantages of refactoring code
- how do these pros and cons apply to refactoring the original vba script
- 
 Refactoring code can be beneficial as this action can help keep process run times low, make Excel data sheets more efficient, and can help code be more readable by casual users or others who will need to edit the code in the future. On the other hand, if a original code works well and still completes the process in a reasonable amount of time, it may take extra time and effort to refactor the code. It may not be worth it to spend this time to refactor code that already works. 
 
 These ideas can be applied to this refactoring process. While this refactored code is definitely easier to read and understand, which will help Steve if he needs to make adjustments or additions in the future, it did take a significant amount of turnaround time to finish the refactoring. Steve may have needed to decide if waiting for refactoring for ease of use in the future is worth it to him and his clients in the present time.  
