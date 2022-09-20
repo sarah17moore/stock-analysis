@@ -17,12 +17,15 @@ After an initial code was created, the code was refactored to speed up the macro
 
 # Results
 The original code to complete this analysis did not fully utilize variable assignment. This is a screenshot of the original code showing that full equations were typed out in several steps:
+
 ![2018 - old, slower code example](/Resources/2018_old_code_screenshot.png)
 
 The new and improved code utilized variables which helped the process repeat actions quicker. This is due to the macro not needing to read full equations or prompts repeatedly, instead, the equation can be read once and "stored" in the memory of the variable. This is a screenshot of the new and improved code that shows that variables have been utilized to accomplish the same actions as the old code:
+
 ![2018 - new, quicker code example](/Resources/2018_new_code_screenshot.png)
 
 By eliminating several steps in the macro code, the run time was shortened from 0.273 seconds to 0.028 seconds. 
+
 ![2018 - old, slower code run time](/Resources/VBA_Challenge_2018.png)
 
 ![2018 - new, quicker code run time](/Resources/VBA_Challenge_2018-2.png)
