@@ -35,6 +35,6 @@ In short, DAQO was not as actively traded as Steve's clients may have hoped. The
 # Summary
 Refactoring code can be beneficial as this action can help keep process run times low, make Excel data sheets more efficient, and can help code be more readable by casual users or others who will need to edit the code in the future. On the other hand, if a original code works well and still completes the process in a reasonable amount of time, it may take extra time and effort to refactor the code. It may not be worth it to spend this time to refactor code that already works. 
 
-These ideas can be applied to this refactoring process. While this refactored code is definitely easier to read and understand, which will help Steve if he needs to make adjustments or additions in the future, it did take a significant amount of turnaround time to finish the refactoring. Steve may have needed to decide if waiting for refactoring for ease of use in the future is worth it to him and his clients in the present time.  
+These ideas can be applied to this refactoring process. While this refactored code is definitely easier to read and understand, which will help Steve if he needs to make adjustments or additions in the future, it did take a significant amount of turnaround time to finish the refactoring. Steve may have needed to decide if waiting for refactoring for ease of use in the future is worth it to him and his clients in the present.  
  
  ---
