@@ -1,5 +1,5 @@
 # VBA for Wall Street
-A classwork example project reviewing stock portfolios
+A classwork example project reviewing stock portfolios using Excel and Visual Basic for Applications
 
 ---
 
